@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { ThemeProvider, createMuiTheme, makeStyles } from '@material-ui/core';
 
-import Home from "./Home";
+import Home from "./components/Home";
 
 const useStyles = makeStyles({
   root: {},
