@@ -2,6 +2,6 @@
 
 Ce projet vise à approfondir mes connaissances en React et principalement Material-UI.
 
-![Youtube Light](../master/img/Youtube_Light.png)
+![Youtube Light](../master/img/Youtube_Light.PNG)
 
-![Youtube Dark](../master/img/Youtube_Dark.png)
+![Youtube Dark](../master/img/Youtube_Dark.PNG)
